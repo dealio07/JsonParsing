@@ -1,0 +1,13 @@
+{
+  "person": {
+      "name": "Vladimir",
+      "surname": "Varga",
+      "phones": ["063-765-28-49", "132-456-78-90"],
+      "sites": ["xyz.com", "abc.ua"],
+      "address": {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "street": "Verkhovnoi Rady"
+      }
+  }
+}
